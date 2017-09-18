@@ -1,6 +1,6 @@
 # Homework 1 by Susanna Klassen
 
-Welcome one and all to my first homework assignment (hw01)! For more details on the course, and this and other assigments, see the course <a href=http://stat545.com>Website</a>
+Welcome one and all to my first homework assignment (hw01)! For more details on the course, and this and other assigments, see the course <a href=http://stat545.com>Website</a>.
 
 ## About me
 
@@ -16,7 +16,7 @@ I'm excited to be learning how to wrangle data so that I can apply it to my proj
 
 ![](https://i.pinimg.com/originals/15/10/29/15102907439824fb616f964e9dff5415.gif)
 
-## A note about process
+## Notes about process
 
 As much as possible, I edited this README.md file using markdown in RStudio. 
 
