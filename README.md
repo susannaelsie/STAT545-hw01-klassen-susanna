@@ -4,7 +4,7 @@ Welcome one and all to my first homework assignment (hw01)! For more details on 
 
 ## About me
 
-I am a first year PhD Student at the Institute for Resources, Environment and Sustainability. My research looks at how we can create more sustainable agri-food systems in Canada, specifically looking at the social and environmental performance of organic agriculture. 
+I am a first year PhD Student at the Institute for Resources, Environment and Sustainability. My research looks at how we can create more sustainable agri-food systems, specifically looking at the social and environmental performance of organic agriculture in the Canadian context. 
 
 My research uses a mixed-methods approach (using both qualitative and quantitative data), following the words <a href="https://quoteinvestigator.com/2010/05/26/everything-counts-einstein/">often attributed to Albert Einstein</a>:
 
