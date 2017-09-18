@@ -8,8 +8,7 @@ I am a first year PhD Student at the Institute for Resources, Environment and Su
 
 I'm excited to be learning how to wrangle data so that I can apply it to my project!
 
-![] (https://i.pinimg.com/originals/15/10/29/15102907439824fb616f964e9dff5415.gif)
-
+![ ] (https://i.pinimg.com/originals/15/10/29/15102907439824fb616f964e9dff5415.gif)
 
 
 ## For more information 
@@ -26,3 +25,6 @@ As much as possible, I edited this README.md file using markdown in RStudio. My 
 4. Commit recently saved changes to my local repo
     - with a note to describe the change
 5. Push the commit 'up' to Github repo
+6. Refresh hw01 README.md file in Github using my browser to display changes
+    - Many unexpected errors were viewed at this stage
+7. Repeat, allowing me to fix errors not seen in 'raw' markdown files
