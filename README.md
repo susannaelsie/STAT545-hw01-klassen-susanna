@@ -8,7 +8,7 @@ I am a first year PhD Student at the Institute for Resources, Environment and Su
 
 I'm excited to be learning how to wrangle data so that I can apply it to my project!
 
-! [ ] (https://i.pinimg.com/originals/15/10/29/15102907439824fb616f964e9dff5415.gif)
+![](https://i.pinimg.com/originals/15/10/29/15102907439824fb616f964e9dff5415.gif)
 
 
 ## For more information 
