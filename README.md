@@ -17,7 +17,9 @@ For more details on the course, and this and other assigments, see the course <a
 
 ## A note about process
 
-As much as possible, I edited this README.md file using markdown in RStudio. My general process followed this format:
+As much as possible, I edited this README.md file using markdown in RStudio. 
+
+In general, my general process followed this format:
 1. Make a small number of changes/additions 
     - e.g. adding a new header and associated section with one new markdown feature such as a list)
 2. Save these changes as I go along
@@ -28,3 +30,9 @@ As much as possible, I edited this README.md file using markdown in RStudio. My 
 6. Refresh hw01 README.md file in Github using my browser to display changes
     - Many unexpected errors were viewed at this stage
 7. Repeat, allowing me to fix errors not seen in 'raw' markdown files
+
+#### Exceptions
+When basic troubleshooting using the raw markdown file for the homework example was insufficient, I used google to see if there were other helpful hints to be found on ther interweb. For example, I couldn't get my gif to load even though the very simple code seemed to match that on the raw sample readme.md file. Remembering that a TA had said in class to my neighbour that sometimes the solution is to erase and re-write the code, I erased what was written and copied in the code from <a href= "https://gist.githubusercontent.com/jhsu/2550829/raw/0cb4f77d83e0783e89d361df0f8501ddb668d2fb/gifs.markdown">this website</a> (found using google). 
+
+I also used <a href="https://www.quora.com/How-do-I-create-a-hyperlink-in-the-README-file-in-my-GitHub-account-which-would-redirect-to-a-new-page-containing-the-project-explanation">this post</a> on QUORA (also found via a google search) to walk me through some different ways of adding hyperlinks to my README.md file. 
+
