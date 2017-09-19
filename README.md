@@ -47,3 +47,6 @@ After making several successful changes to my README.md file, I felt more confid
 
 Similar to the sample readme.md file from STAT545, I found <a href="https://docs.microsoft.com/en-us/vsts/reference/markdown-guidance">this helpful resource</a> from Microsoft Visual Studio with many helpful syntax tips for Markdown. 
 
+#### Using R Markdown
+
+This was generally a straightforward process, as it allowed me to structure each step and narrate with comments in a way that is easy to visualize! I found the most confusing part to be understanding the Rmd vs the md files, but going through the steps helped me to figure this out. 
