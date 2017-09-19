@@ -18,7 +18,7 @@ I'm excited to be learning how to wrangle data so that I can apply it to my proj
 
 ## A note about process
 
-As much as possible, I edited this README.md file using markdown in RStudio. 
+As much as possible, I edited this README.md file using markdown in RStudio. For some minor and quick changes (e.g. adding a period at the end of a sentence), I sometimes used my browser (twice), but for all significant changes or edits (adding Markdown syntax of any kind), I made changes via my local repo in RStudio. 
 
 In general, my general process followed this format:
 1. Make a small number of changes/additions 
