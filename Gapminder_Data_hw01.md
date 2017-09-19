@@ -2,9 +2,9 @@
 
 
 
-#Gapminder Dataset for hw01
+# Gapminder Dataset for hw01
 
-##Load packages
+## Load packages
 
 Assuming both the gapminder and tidyverse packages are installed, load them using the following commands:
 
